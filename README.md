@@ -23,7 +23,7 @@ REACT/
 ```
 
 ---
-## Captura de Proyecto 
+##  📷  Captura de Proyecto 
 
 
 <img width="1134" height="877" alt="image" src="https://github.com/user-attachments/assets/0f140ca0-fd62-44f6-a0ed-1d6aedccbf9e" />
